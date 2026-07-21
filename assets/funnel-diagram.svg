@@ -1,1 +1,39 @@
+<svg viewBox="0 0 560 260" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Diagram of the six-step signup funnel, showing the majority of users dropping off at step two, the bank-connection screen">
+  <!-- step bars, width encodes remaining users -->
+  <g font-family="IBM Plex Mono, monospace" font-size="11" fill="#5b6570">
 
+    <!-- step 1 -->
+    <rect x="0" y="10" width="560" height="26" rx="3" fill="#10202f" opacity="0.9"/>
+    <text x="10" y="27" fill="#f6f1e6">1 · Create account</text>
+    <text x="530" y="27" fill="#f6f1e6" text-anchor="end">100%</text>
+
+    <!-- step 2: the drop -->
+    <rect x="0" y="46" width="212" height="26" rx="3" fill="#a8492f"/>
+    <text x="10" y="63" fill="#f6f1e6">2 · Connect bank</text>
+    <text x="202" y="63" fill="#f6f1e6" text-anchor="end">38%</text>
+    <line x1="212" y1="46" x2="480" y2="46" stroke="#a8492f" stroke-width="1" stroke-dasharray="2 4"/>
+    <text x="490" y="63" fill="#a8492f">62% leave here</text>
+
+    <!-- step 3 -->
+    <rect x="0" y="82" width="196" height="26" rx="3" fill="#10202f" opacity="0.55"/>
+    <text x="10" y="99" fill="#f6f1e6">3 · Estimate income</text>
+    <text x="186" y="99" fill="#f6f1e6" text-anchor="end">35%</text>
+
+    <!-- step 4 -->
+    <rect x="0" y="118" width="178" height="26" rx="3" fill="#10202f" opacity="0.55"/>
+    <text x="10" y="135" fill="#f6f1e6">4 · Pick categories</text>
+    <text x="168" y="135" fill="#f6f1e6" text-anchor="end">32%</text>
+
+    <!-- step 5 -->
+    <rect x="0" y="154" width="162" height="26" rx="3" fill="#10202f" opacity="0.55"/>
+    <text x="10" y="171" fill="#f6f1e6">5 · Set limits</text>
+    <text x="152" y="171" fill="#f6f1e6" text-anchor="end">29%</text>
+
+    <!-- step 6 -->
+    <rect x="0" y="190" width="148" height="26" rx="3" fill="#2f6f4e"/>
+    <text x="10" y="207" fill="#f6f1e6">6 · Notifications</text>
+    <text x="138" y="207" fill="#f6f1e6" text-anchor="end">27%</text>
+
+    <text x="0" y="242" fill="#5b6570" font-size="10" letter-spacing="0.5">SHARE OF SIGNUPS REACHING EACH STEP · PRE-REDESIGN</text>
+  </g>
+</svg>
