@@ -1,1 +1,7 @@
 
+<svg viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg" role="img" aria-hidden="true">
+  <path d="M6 9 h18 a2 2 0 0 1 2 2 v9 a2 2 0 0 1 -2 2 h-10 l-5 5 v-5 h-3 a2 2 0 0 1 -2 -2 v-9 a2 2 0 0 1 2 -2 Z"
+        fill="none" stroke="#2f6f4e" stroke-width="1.6" stroke-linejoin="round"/>
+  <path d="M18 22 h14 a2 2 0 0 0 2 -2 v-7 a2 2 0 0 0 -2 -2 h-6"
+        fill="none" stroke="#c9a227" stroke-width="1.6" stroke-linejoin="round" opacity="0.85"/>
+</svg>
